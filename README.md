@@ -1,6 +1,6 @@
 # mesoscope_spontaneous
 
-These files are associated with the following paper:
+These files are associated with the following paper (PLEASE CITE):
 
 "Pan-cortical 2-photon mesoscopic imaging and neurobehavioral alignment in awake, behaving mice"
 
