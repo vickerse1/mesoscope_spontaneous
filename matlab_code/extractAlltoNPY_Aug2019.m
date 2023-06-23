@@ -1,0 +1,18 @@
+writeNPY(FL_CAM.times, 'fl_cam.npy')
+writeNPY(Lft_ex.values, 'lft_ex.npy')
+writeNPY(Lft_PPL.values, 'lft_ppl.npy')
+writeNPY(Lft_whsk.values, 'lft_whisk.npy')
+writeNPY(Lick.times, 'lick.npy')
+writeNPY(LPup_FC.times, 'lpup_fc.npy')
+writeNPY(NI_PZO.values, 'ni_pzo.npy')
+writeNPY(P_diode.values, 'p_diode.npy')
+writeNPY(Piezo_co.values, 'piezo_co.npy')
+writeNPY(RPup_FC.times, 'rpup_fc.npy')
+writeNPY(Rt_ex.values, 'rt_ex.npy')
+writeNPY(Rt_PPL.values, 'rt_ppl.npy')
+writeNPY(Rt_whsk.values, 'rt_whisk.npy')
+writeNPY(sound.values, 'sound.npy')
+writeNPY(Walk.values, 'walk.npy')
+writeNPY(V2P_fr_cl.values, 'fr_cl_2p.npy')
+
+clear all
