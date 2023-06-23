@@ -1,0 +1,11 @@
+array(['l_VISp', 'l_VISpl', 'l_VISpor', 'l_VISl', 'l_VISli', 'l_VISal',
+       'l_VISrl', 'l_VISa', 'l_VISam', 'l_VISpm', 'l_FRP', 'l_PL',
+       'l_ACAd', 'l_MOs', 'l_MOp', 'l_RSPv', 'l_RSPd', 'l_RSPagl',
+       'l_SSp-tr', 'l_SSp-ll', 'l_SSp-ul', 'l_SSp-m', 'l_SSp-n',
+       'l_SSp-un', 'l_SSp-bfd', 'l_SSs', 'l_AUDp', 'l_AUDv', 'l_AUDd',
+       'l_AUDpo', 'l_TEa', 'r_VISp', 'r_VISpl', 'r_VISpor', 'r_VISl',
+       'r_VISli', 'r_VISal', 'r_VISrl', 'r_VISa', 'r_VISam', 'r_VISpm',
+       'r_FRP', 'r_PL', 'r_ACAd', 'r_MOs', 'r_MOp', 'r_RSPv', 'r_RSPd',
+       'r_RSPagl', 'r_SSp-tr', 'r_SSp-ll', 'r_SSp-ul', 'r_SSp-m',
+       'r_SSp-n', 'r_SSp-un', 'r_SSp-bfd', 'r_SSs', 'r_AUDp', 'r_AUDv',
+       'r_AUDd', 'r_AUDpo', 'r_TEa'], dtype='<U9')
