@@ -1,9 +1,10 @@
 # mesoscope_spontaneous
 
-These files are associated with the following paper (PLEASE CITE - look for us soon on bioRxiv):
+These files are associated with the following paper (PLEASE CITE - now on bioRxiv):
+
+doi: https://doi.org/10.1101/2023.10.19.563159
 
 "Pan-cortical 2-photon mesoscopic imaging and neurobehavioral alignment in awake, behaving mice"
-
 
 Evan D. Vickers1 and David A. McCormick1,2,3
 
