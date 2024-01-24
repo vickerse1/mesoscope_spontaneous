@@ -1,6 +1,6 @@
 # mesoscope_spontaneous
 
-These files are associated with the following paper (PLEASE CITE - now on a reviewed preprint at eLife):
+These files are associated with the following paper (PLEASE CITE - now online as a reviewed preprint at eLife):
 
 doi: [https://doi.org/10.1101/2023.10.19.563159]
 
