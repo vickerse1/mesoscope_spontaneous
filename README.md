@@ -9,7 +9,12 @@ doi: [https://doi.org/10.1101/2023.10.19.563159]
 
 eLife reviewed preprint:
 
-https://doi.org/10.7554/eLife.94167
+[https://doi.org/10.7554/eLife.94167]
+
+
+Publicly available datasets at FigShare+:
+
+[https://doi.org/10.25452/figshare.plus.c.7052513]
 
 
 "Pan-cortical 2-photon mesoscopic imaging and neurobehavioral alignment in awake, behaving mice"
