@@ -1,0 +1,12 @@
+cff-version: 1.0.1
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Vickers
+    given-names: Evan
+    orcid: https://orcid.org/0000-0002-7053-4740
+title: "Pan-cortical 2-photon mesoscopic imaging and neurobehavioral alignment in awake, behaving mice"
+version: 1.0.1
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10966793
+date-released: 2024-04-12
